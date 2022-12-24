@@ -1,0 +1,44 @@
+.heading{
+    height:100vh;
+    z-index:1000;
+    position:fixed;
+    top:100px;
+    
+}
+.heading img{
+    border-radius:35px;
+    background-color: yellowgreen;
+
+}
+.heading a:hover{
+    color:red;
+    
+}
+.heading button{
+    color:black;
+}
+
+.navbar{
+    background-color: greenyellow;
+}
+.footer{
+   
+    margin-top: 10px;
+    background-color: black;
+    
+    color:whitesmoke;
+
+}
+.gallery{
+    margin-top:75px;
+}
+.container{
+    background-color: aliceblue;
+}
+.footer i{
+    width:150px;
+    heigth:150px;
+    text-align: end;
+}
+
+
